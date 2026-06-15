@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pelin Hamdemir
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=Software%20Design%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&fontSize=28&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=Software%20Design%20Engineer%20%7C%20Java%20and%20Spring%20Boot&fontSize=28&fontColor=ffffff" width="100%"/>
 </div>
 
 ---
