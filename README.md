@@ -144,19 +144,6 @@
 
 ---
 
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pelinhamdemir2&theme=radical&hide_border=true" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pelinhamdemir2&theme=radical" />
-
-</div>
-
----
-0
 ## 📫 Contact
 
 <div align="center">
